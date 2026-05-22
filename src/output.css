@@ -165,8 +165,14 @@
   .m-auto {
     margin: auto;
   }
+  .mt-\[40px\] {
+    margin-top: 40px;
+  }
   .mt-\[50px\] {
     margin-top: 50px;
+  }
+  .mt-\[100px\] {
+    margin-top: 100px;
   }
   .flex {
     display: flex;
@@ -188,6 +194,9 @@
   }
   .w-\[150px\] {
     width: 150px;
+  }
+  .w-\[350px\] {
+    width: 350px;
   }
   .w-\[400px\] {
     width: 400px;
@@ -233,6 +242,9 @@
   }
   .text-center {
     text-align: center;
+  }
+  .text-\[30px\] {
+    font-size: 30px;
   }
   .text-\[40px\] {
     font-size: 40px;
